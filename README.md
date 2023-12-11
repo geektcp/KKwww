@@ -17,4 +17,4 @@ Warmane
 ```
 
 
-![首页图](https://github.com/geektcp/Warmane/blob/main/pretty/door.png)
+![首页图](https://github.com/geektcp/Warmane/blob/main/screen/pretty/gray.png)
