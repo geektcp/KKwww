@@ -15,3 +15,6 @@ Warmane
 
 官方将跟进各类技术问题。修复bug，扩展新功能，新玩法。
 ```
+
+
+![首页图](https://github.com/geektcp/Warmane/blob/main/pretty/door.png)
