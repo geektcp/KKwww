@@ -1,10 +1,10 @@
-Warmane
+OKWOW
 ==========================================
 
-[https://warmane.cn](https://warmane.cn)
+[https://okwow.cn](https://okwow.cn)
 
 
-## 全球最火爆服务器Warmane服务器亚洲分服
+## 全球最火爆服务器OKWOW服务器亚洲分服
 ```
 欢迎加入。
 ```
@@ -17,4 +17,4 @@ Warmane
 ```
 
 
-![首页图](https://github.com/geektcp/Warmane/blob/main/screen/pretty/gray.png)
+![首页图](https://github.com/geektcp/OKWOW/blob/main/screen/pretty/gray.png)
