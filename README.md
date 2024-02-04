@@ -4,7 +4,7 @@ KKwww
 [https:/kkwww.com](https:/kkwww.com)
 
 
-## 全球最火爆服务器KKwwww公益休闲服
+## 全球最火爆服务器KKwww公益休闲服
 ```
 欢迎加入。
 ```
