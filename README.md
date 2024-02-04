@@ -1,10 +1,10 @@
-OKWOW
+KKwww
 ==========================================
 
-[https://okwow.cn](https://okwow.cn)
+[https:/kkwww.com](https:/kkwww.com)
 
 
-## 全球最火爆服务器OKWOW服务器亚洲分服
+## 全球最火爆服务器KKwwww公益休闲服
 ```
 欢迎加入。
 ```
@@ -17,4 +17,4 @@ OKWOW
 ```
 
 
-![首页图](https://github.com/geektcp/OKWOW/blob/main/screen/pretty/gray.png)
+![首页图](https://github.com/geektcp/KKwww/blob/main/screen/pretty/gray.png)
