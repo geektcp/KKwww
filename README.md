@@ -1,7 +1,7 @@
 友谊魔兽
 ==========================================
 
-[https:/kkwww.com](https:/kkwww.com)
+[http:/kkwww.com](http:/kkwww.com)
 
 
 ## 面向全球玩家开放的魔兽世界的服务器
